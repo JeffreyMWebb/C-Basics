@@ -1,0 +1,16 @@
+/Users/jeffwebb/Scripts/C#Basics/bin/Debug/net5.0/C#Basics
+/Users/jeffwebb/Scripts/C#Basics/bin/Debug/net5.0/C#Basics.deps.json
+/Users/jeffwebb/Scripts/C#Basics/bin/Debug/net5.0/C#Basics.runtimeconfig.json
+/Users/jeffwebb/Scripts/C#Basics/bin/Debug/net5.0/C#Basics.runtimeconfig.dev.json
+/Users/jeffwebb/Scripts/C#Basics/bin/Debug/net5.0/C#Basics.dll
+/Users/jeffwebb/Scripts/C#Basics/bin/Debug/net5.0/C#Basics.pdb
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.csproj.AssemblyReference.cache
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.AssemblyInfoInputs.cache
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.AssemblyInfo.cs
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.csproj.CoreCompileInputs.cache
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.dll
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/refint/C#Basics.dll
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.pdb
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/C#Basics.genruntimeconfig.cache
+/Users/jeffwebb/Scripts/C#Basics/obj/Debug/net5.0/ref/C#Basics.dll
